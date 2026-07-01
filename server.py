@@ -6,7 +6,6 @@ from datetime import datetime, timedelta
 import win32gui
 import win32con
 import win32process
-import psutil
 
 # Safety feature - move mouse to corner to stop
 pyautogui.FAILSAFE = True

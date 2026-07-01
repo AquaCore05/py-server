@@ -1,5 +1,5 @@
 pyautogui==0.9.54
-pywin32==3
+pywin32==312; sys_platform == 'win32'
 
 
 #sudo python3 -m pip install --break-system-packages pyautogui python-xlib psutil python-uinput
